@@ -12,11 +12,11 @@ const Model = {
       desc: "Edit video rawfx, aesthetic, dll. rawfx bertema mobile legends atau anime/AMV. dan aesthetic Mobile Legends atau anime/AMV.",
     },
     {
-      title: "WhatsApp AI Bot (Go + whatsmeow)",
-      tag: "Backend · Go", color: "#3dff6e",
-      url: "https://github.com/kurak2012", cta: "View on GitHub →",
+      title: "Tiktok (Go + Tiktok)",
+      tag: "Tiktok", color: "#3dff6e",
+      url: "https://www.tiktok.com/@pikarv7", cta: "Tekan Woi",
       img: "assets/projects/wabot.png",
-      desc: "Bot WhatsApp yang dibangun dengan Go, lebih ringan dan stabil dibanding bot berbasis Node.js. Mendukung berbagai fitur utilitas harian dengan response cepat dan minim downtime.",
+      desc: "Aplikasi tiktok untuk upload video yang telah saya edit di alight motion"
     },
     {
       title: "Discord Music Bot — Meoowy#5249",
