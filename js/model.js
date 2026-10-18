@@ -1,15 +1,15 @@
 const Model = {
-  githubUser: "kurak2012",
-  contactEmail: "eazyayaa@gmail.com",
+  githubUser: "pikar2019",
+  contactEmail: "madrosans8@gmail.com",
   state: { screen: "home", menuIndex: 0, reposLoaded: false, skillsBuilt: false },
 
   featured: [
     {
-      title: "KuraCash — Topup Game Platform",
+      title: "Mobile Legends — Edit rawfx",
       tag: "SaaS · Live", color: "#e60012", live: true,
-      url: "https://kuracash.my.id", cta: "Visit kuracash.my.id →",
+      url: "wa.me/6283192063661", cta: "Tekan Woi →",
       img: "assets/projects/kuracash.png",
-      desc: "Platform topup game & pulsa berbasis web. Ribuan transaksi, integrasi payment gateway, sistem sewa bot WhatsApp otomatis. Infrastruktur VPS + Pterodactyl + Nginx + Cloudflare.",
+      desc: "Mobile legends, edit rawfx. open commission",
     },
     {
       title: "WhatsApp AI Bot (Go + whatsmeow)",
