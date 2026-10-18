@@ -5,11 +5,11 @@ const Model = {
 
   featured: [
     {
-      title: "Mobile Legends — Edit rawfx",
+      title: "Wangsap — Open Commission to wangsap",
       tag: "SaaS · Live", color: "#e60012", live: true,
       url: "https://wa.me/6283192063661", cta: "Tekan Woi →",
       img: "assets/projects/kuracash.png",
-      desc: "Mobile legends, edit rawfx. open commission",
+      desc: "Edit video rawfx, aesthetic, dll. rawfx bertema mobile legends atau anime/AMV. dan aesthetic Mobile Legends atau anime/AMV.",
     },
     {
       title: "WhatsApp AI Bot (Go + whatsmeow)",
