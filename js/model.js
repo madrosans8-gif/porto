@@ -7,7 +7,7 @@ const Model = {
     {
       title: "Mobile Legends — Edit rawfx",
       tag: "SaaS · Live", color: "#e60012", live: true,
-      url: "wa.me/6283192063661", cta: "Tekan Woi →",
+      url: "https://wa.me/6283192063661", cta: "Tekan Woi →",
       img: "assets/projects/kuracash.png",
       desc: "Mobile legends, edit rawfx. open commission",
     },
