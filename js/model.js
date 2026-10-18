@@ -14,9 +14,9 @@ const Model = {
     {
       title: "Tiktok (Go + Tiktok)",
       tag: "Tiktok", color: "#3dff6e",
-      url: "https://www.tiktok.com/@pikarv7", cta: "Tekan Woi",
+      url: "https://www.tiktok.com/@pikarv7", cta: "Tekan Woi →",
       img: "assets/projects/wabot.png",
-      desc: "Aplikasi tiktok untuk upload video yang telah saya edit di alight motion, serta untuk mencari referensi saya untuk ngedit, dan mencari footage untuk saya edit"
+      desc: "Aplikasi tiktok untuk upload video yang telah saya edit di alight motion, serta untuk mencari referensi saya mengedit, dan mencari mentahan-mentahan, sound, yang akan di edit, dan berteman bersama creator creator untuk saling support bersama."
     },
     {
       title: "Discord Music Bot — Meoowy#5249",
